@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CambioDeDivisas(Spinner)</string>
+    <string name="divisa">Elije una divisa:</string>
+    <string name="monto">Ingresa el monto</string>
+    <string name="convertir">Convertir a:</string>
+    <string name="convertirBtn">Convertir</string>
+    <string name="valor">0.0</string>
+    <string-array name="divisas">
+        <item>MXN</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
